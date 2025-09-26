@@ -1,4 +1,6 @@
 %% ==== CONFIGURACIÓN (EDITA ESTAS VARIABLES) ====
+
+%Larissa Hola!!
 endpointATS = "ssl://aqloxhiemdroo-ats.iot.us-east-1.amazonaws.com";
 portTLS     = 8883;
 clientId    = "GinBot";  % Puede ser el nombre de tu Thing u otro ID único
